@@ -1,0 +1,5 @@
+When the World was young and the Seven gods walked the land. [[Riarann]] the God of Hammer and Anvil travelled from his forge at the heart of [[Sléibhte na nDéithe]] in search of an ore worthy of crafting the finest tools to tame the land.
+He travelled to [[Sliabh Liath]] and deep in the tunnels and caverns underneath he discovered [[Iarnchroi]], Heart Iron. Riarann's pickaxe made music in the deep, where the caverns got their names the Echoing Hollows.
+Riarann forged with this metal the first Plough sword for [[Bríonna]] to plough the land, and the when the first creatures of the darkness attacked, [[Cathmora]] used the Plough sword to defend the lands.
+
+In the long years that passed, the defensive settlement at [[Caer Ciarán]] developed close to the Echoing Hallows emerged. However as the mining of Iarnchroi continued, the output of the mines dropped. Eventually a collapse of the tunnels made the further excavation of more ores unlikely, and as generations passed, the Echoing caverns, became a story, their true location lost to time.
