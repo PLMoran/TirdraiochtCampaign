@@ -1,6 +1,7 @@
 > [!infobox]
 > # Yeemik
 > ![[Src/z_Assets/Goblin|Yeemik]]
+
 > ###### Stats
 > | Type |  Stat |
 > | ---- | ---- |
@@ -18,9 +19,10 @@
 > | 10(+) | 8(-1) | 8(-1) |
 > 
 > #### Actions
->
-**Scimitar.**  Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage. 
-**Shortbow.** Ranged Weapon Attack:_ +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+>| Weapon | Style |To Hit| Damage|
+> | ---- | ---- |----|----|
+>|**Scimitar.** | Melee Weapon Attack |+4|  reach 5 ft one target. Hit: 5 (1d6 + 2) slashing damage. |
+>|**Shortbow.**|Ranged Weapon Attack | +4 | range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.|
 > ###### Other
 > | Type |  Stat |
 > | ---- | ---- |
