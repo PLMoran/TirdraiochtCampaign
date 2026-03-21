@@ -1,4 +1,4 @@
-> [!infobox|left]+ Collapsible Infobox
+> [!infobox]
 > # Yeemik
 > ![[Src/z_Assets/Goblin|Yeemik]]
 > ###### Stats
