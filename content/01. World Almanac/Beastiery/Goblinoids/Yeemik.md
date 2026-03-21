@@ -1,7 +1,6 @@
 > [!infobox]
 > # Yeemik
 > ![[Src/z_Assets/Goblin|Yeemik]]
-
 > ###### Stats
 > | Type |  Stat |
 > | ---- | ---- |
