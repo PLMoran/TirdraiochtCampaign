@@ -1,0 +1,1 @@
+![BrionnasKnot](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/St_Brigid%27s_Cross_%28three_arms%29.svg/250px-St_Brigid%27s_Cross_%28three_arms%29.svg.png)
