@@ -1,10 +1,9 @@
 ##### Description
 
-Sildar Hallwinter is a retired soldier and sell-sword who hails from the city of Deepwater. He is a loyal member of the  Mic na Seachtar(Sons of the Seven), a political organization that unites the various free cities and towns of the North.
+Sildar Hallwinter is a retired soldier and sell-sword who hails from the city of Deepwater. He is a loyal member of the  [[Mic na Seachtar]](Sons of the Seven), a political organization that unites the various free cities and towns of the North.
 
-> [!infobox]+ Collapsible Infobox
-> # Sildar Hallwinter
-> ![[img.png| Display Text]]
+
+>> ![Sildar](https://static.wikia.nocookie.net/ian-melbourne-dnd/images/d/d7/Sildar_Hallwinter.jpg/revision/latest?cb=20180513125111)
 > ###### Stats
 > | Type |  Stat |
 > | ---- | ---- |
@@ -26,7 +25,7 @@ Sildar Hallwinter is a retired soldier and sell-sword who hails from the city of
 _**Longsword.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.
 **Heavy Crossbow.** Ranged Weapon Attack:_ +2 to hit, range 100 ft./400 ft., one target. Hit: 5 (1d10) piercing damage.
 >#### Reactions
-_**Parry.**_ When an attacker hits Sildar with a melee attack and Sildar can see the attacker, he can roll 1d6 and add the number rolled to his AC against the triggering attack, provided that he’s wielding a melee weapon.
+>_**Parry.**_ When an attacker hits Sildar with a melee attack and Sildar can see the attacker, he can roll 1d6 and add the number rolled to his AC against the triggering attack, provided that he’s wielding a melee weapon.
 > ###### Other
 > | Type |  Stat |
 > | ---- | ---- |
