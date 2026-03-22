@@ -13,22 +13,33 @@ The Special Days are:
 
 
 #### An tEarrach - The Spring
-Brionach
-Fásmar
-Bláthúr
+1. Brionach
+2. Fásmar
+3. Bláthúr
+
+#### Féile Lasracha Ard-Samhradh
+- An Chead Lasracha Ard-Samhradh
+- An Dara Lasracha Ard-Samhradh
 
 #### An tSamradh - The Summer
-Riarach
-Alteirne
-Teasmar
+4. Riarach
+5. Alteirne
+6. Teasmar
+
+#### Féile Fhómhar
+- An Chead Fhómhar
+- An Dara Fhómhar (Only on Leap Years)
 
 #### An Fómhar - Harvest
-Torach
-Nemaire
-Fómharach
+7. Torach
+8. Nemaire
+9. Fómharach
 
 #### An Geimhreadh - Winter
-Cathmar
-Múirtanach
-Dorchaim
+10. Cathmar
+11. Múirtanach
+12. Dorchaim
 
+#### An Casadh
+- Oíche an Chasadh
+- Lá an Tosaigh
