@@ -1,5 +1,4 @@
-> [!infobox|left]
-> # Bugbear
+
 > ![bugbear](https://media.dndbeyond.com/compendium-images/lmop/M14LHJMMQhUuZ46S/06-001.bugbear.png)
 > ###### Stats
 > | Type |  Stat |
