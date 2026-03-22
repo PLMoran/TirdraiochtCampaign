@@ -1,36 +1,34 @@
-The Year is 340 Days Long
-There are 12 Months of equal 28 days
-There are 4 Special Days that make up the extra 4 days of the year.
+The Year is 365 Days Long. 366 on a leap year
+There are 12 Months of equal 30 days
+There are 5 Special Days that make up the extra 5 days of the year. an extra one on the leap year.
 The Special Days are not part of the months they occur in, instead, the calendar "Pauses" for the Feast day and then continues after.
-The Spring and Harvest Equinox and Summer and Winter Solstice
 4 Seasons Each of 3 Months
 4 Weeks in a Month,
 7 Days in a Week.
+The Special Days are:
+- New Years Eve, New Years Day, Oíche an Chasadh and Lá an Tosaigh
+- Cead agus Dara Lasracha Ard-Samhradh, First and Second High Sumers-Fires
+- An Chead Fhómhar, First Harvest
+- An Dara Fhómhar, Second Harvest( Leap Year, Long Harvest)
+
 
 #### An tEarrach - The Spring
-Feabhra
-Marta
-Aibhreann
-
-La Leathach an tEarrach, the Spring Equinox happens between 14th and 15th Marta.
+Brionach
+Fásmar
+Bláthúr
 
 #### An tSamradh - The Summer
-Bealtaine
-Meitheamh
-Iuil
-
-Grianstad an tSamraidh, The Summer Solstice happens on the15th Meitheamh
+Riarach
+Alteirne
+Teasmar
 
 #### An Fómhar - Harvest
-Lunasa
-Meán Fómhar
-Deireadh Fómhar
-
-La Leathach an Fomhar, the Harvest Equinox happens between 14th and 15th Méan Fómhar
+Torach
+Nemaire
+Fómharach
 
 #### An Geimhreadh - Winter
-Samhain
-Méan Gemihreadh
-Eanair
+Cathmar
+Múirtanach
+Dorchaim
 
-Grianstad an Geimhreadh, the Winter Solstise happens between 14th and 15th Méan Geimhreadh
