@@ -1,75 +1,26 @@
----
-level: 2
-proficiency_bonus: 2
----
-```badges
-items:
-  - label: Name
-    value: 'Dian Evenflame'
-```
-```badges
-items:
-  - label: Class
-    value: 'Fighter'
-  - label: Race
-    value: 'Human'
-  - label: Level
-    value: '{{ frontmatter.level }}'
-```
-```badges
-items:
-  - label: HP
-    value: '20'
-  - label: AC
-    value: '17'
-  - label: Initiative
-    value: '+{{ modifier abilities.dexterity }}'
-```
-<br>
 
-```ability
-abilities:
-  strength: 16
-  dexterity: 9
-  constitution: 14
-  intelligence: 10
-  wisdom: 12
-  charisma: 14
+> ###### Stats
+> | Type |  Stat |
+> | ---- | ---- |
+> | AC| 15 |
+> | HP| 12 |
+> | Speed | 30ft |
+> 
+> ##### Skills
+> | Str | Dex | Con |
+> | ---- | ---- |---- |
+> | 8(-1) | 14(+2) | 10(+0) |
+>
+> | Int | Wis | Cha |
+> | ---- | ---- |---- |
+> | 10(+) | 8(-1) | 8(-1) |
+>
+>#### Abilities
+>|Prof|Skill|Ability|Modifier| |Prof|Skill|Ability|Modifier|
+>|----|----|----|----|----|----|----|----|----|
+>|P|DEX|Acrobatics|+1| |P|WWIS|Medicine|+3|
+>|P|WIS|Animal Handling|+3| |P|INT|Nature|+2|
 
-proficiencies:
-  - strength
-  - constitution
-```
-  <br>
-
-
-```skills
-proficiencies:
-  - Animal Handling
-  - acrobatics
-  - athletics
-  - medicine
-  - nature
-  - perception
-  - persuasion
-  - survival
-
-expertise:
-
-bonuses:
- 
-```
-<br>
-
-```badges
-items:
-  - label: Passive Perception
-    value: '{{ add 10 frontmatter.proficiency_bonus (modifier abilities.wisdom) }}'
-  - label: Passive Insight
-    value: '{{ add 10 (modifier abilities.wisdom) }}' 
-  - label: Passive Investigation
-    value: '{{ add 10 (modifier abilities.intelligence) }}'
-```
 
 #### Background
 
