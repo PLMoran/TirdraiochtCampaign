@@ -1,5 +1,6 @@
 
-> ![bugbear](https://media.dndbeyond.com/compendium-images/lmop/M14LHJMMQhUuZ46S/06-001.bugbear.png)
+> <img src="https://media.dndbeyond.com/compendium-images/lmop/M14LHJMMQhUuZ46S/06-001.bugbear.png" height="400" width="300">
+> 
 > ###### Stats
 > | Type |  Stat |
 > | ---- | ---- |
