@@ -3,7 +3,8 @@
 Sildar Hallwinter is a retired soldier and sell-sword who hails from the city of Deepwater. He is a loyal member of the  [[Mic na Seachtar]](Sons of the Seven), a political organization that unites the various free cities and towns of the North.
 
 
->> ![Sildar](https://static.wikia.nocookie.net/ian-melbourne-dnd/images/d/d7/Sildar_Hallwinter.jpg/revision/latest?cb=20180513125111)
+> <img src="https://static.wikia.nocookie.net/ian-melbourne-dnd/images/d/d7/Sildar_Hallwinter.jpg/revision/latest?cb=20180513125111" height="400" width="300">
+> 
 > ###### Stats
 > | Type |  Stat |
 > | ---- | ---- |

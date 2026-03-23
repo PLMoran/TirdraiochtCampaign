@@ -1,5 +1,3 @@
-
-> # Goblin
 > <img src="https://www.dndbeyond.com/avatars/thumbnails/30783/955/1000/1000/638062024584880857.png" height="400" width="300">
 > 
 > ###### Stats
