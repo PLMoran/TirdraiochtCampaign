@@ -1,3 +1,8 @@
+---
+publish: true
+---
+
+
 
 ```statblock
 name: Goblin
