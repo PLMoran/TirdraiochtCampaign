@@ -2,7 +2,7 @@
 > |----|----|
 > |Class|Fighter|
 > |Race|Human|
-> |Level|2|
+> |Level|2|yes
 > 
 > ###### Stats
 > | Type |  Stat |
