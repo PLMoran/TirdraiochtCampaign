@@ -1,1 +1,0 @@
-A Dragonborn Community, nestled between the foothills of [[Sliabh Liath]] and the [[Coill Deargadh]]
